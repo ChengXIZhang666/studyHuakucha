@@ -56,7 +56,7 @@ export const constantRoutes = [
   },
 
   {
-    path: '/example222',
+    path: '/example22',
     component: Layout,
     redirect: '/example/table',
     name: 'Example',
